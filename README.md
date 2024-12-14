@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Swift: forgetting to include the external parameter name when calling a function that has one defined.  The `bug.swift` file shows the error, while `bugSolution.swift` provides the corrected code.  This is a simple but frequently encountered issue, especially for developers new to Swift's parameter naming conventions.
